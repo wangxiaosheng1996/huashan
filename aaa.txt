@@ -1,3 +1,6 @@
 aaaa
 bbbb
 cccc
+diff
+diff2   edit by hot_fix
+
