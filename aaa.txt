@@ -3,4 +3,4 @@ bbbb
 cccc
 diff
 diff2   test conflict by hot_fix
-
+diff2   test conflict by master
