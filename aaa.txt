@@ -4,3 +4,4 @@ cccc
 diff
 diff2   test conflict by master
 by workspace2
+pull test
